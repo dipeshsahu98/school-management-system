@@ -1,0 +1,2 @@
+# school-management-system
+my_first_python_school_project_built_on_mobile
